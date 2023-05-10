@@ -1,3 +1,5 @@
+StreamElement Widget
+
 1 - créer un nouvel overlay streamelement - https://streamelements.com/dashboard/overlays
 
 2 - faire le + en bas et ajouter "static/custom -> custom widget"
