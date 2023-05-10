@@ -1,0 +1,15 @@
+  {"fontColor": {
+    "type": "colorpicker",
+    "label": "Font color",
+    "value": "rgba(255, 255, 255,1)"
+  },
+   "outlineWidth": {
+    "type": "number",
+    "label": "Outline width:",
+    "value": 5
+  },"outlineColor": {
+    "type": "colorpicker",
+    "label": "Outline color",
+    "value": "rgba(0, 0, 0,1)"
+  }
+  }
